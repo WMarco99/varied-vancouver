@@ -44,9 +44,9 @@ A 'crowd-sourced' collection of places of interest in Vancouver (and anywhere va
 
 1. Once I verify that you've done things correctly, I'll merge the points in. If I have questions, I may leave them on the pull request and you'll be notified at your email. You can respond on the pull request page, or, if either of us has canceled/closed the request because it isn't going to work, you can create a different pull request, as needed.
 
-1. Depending on how many pull requests I get and how quickly, you might have to wait until after class to verify the map. But once you receive the notice that it's been merged, please verify that it's worked correctly and your points are [on the map at my original repository.](https://github.com/UBC-GEOB472-Spring2020/Varied-Vancouver/blob/master/varied-vancouver.geojson) 
+1. Depending on how many pull requests I get and how quickly, you might have to wait until after class to verify the map. But once you receive the notice that it's been merged, please verify that it's worked correctly and your points are [on the map at my original repository.](https://github.com/UBC-GEOB472-Spring2021/Varied-Vancouver/blob/master/varied-vancouver.geojson) 
    1. At this point, feel free to delete your forked repo. You can do that by going to your repo's page, going into the 'Settings' at the top of your repo and scrolling down until you see the Delete Repo option in red. There's no reason you *need* to delete it--it's just something to do if you want to avoid having your account have a copy of this repository and its contents. If the repository says "Private" next to its name at the top of the page, then the public can't see it (only you and people you give access to, and here, by default, also any people able to access the original repository being forked, which includes the members of this class.)
 
-1. [Tell me here which point you submitted!](https://canvas.ubc.ca/courses/37110/assignments/443050) *Great job!*
+1. [Tell me here which point you submitted!](https://canvas.ubc.ca/courses/60053/assignments/787497) *Great job!*
 
 If you want to practice this workflow again later, that can be useful, as there's a lot going on above. I'm also happy to help!
