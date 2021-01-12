@@ -3,7 +3,7 @@ A 'crowd-sourced' collection of places of interest in Vancouver (and anywhere va
 
 ### Exercise criteria:
 
-* Many of these "places that you find interesting but are likely yet unknown to most of us" are going to be represented as points, but some of them may be polygons or lines. One GeoJSON file can store points lines and polygons at once--unlike most GIS data formats. *All points should have some attribute data filled out.* Note that in GeoJSON each entity can have an entirely different set of attributes, so you don't have to follow your neighbors--you can add your own attribute types that are relevant to your point! And do [remember](https://canvas.ubc.ca/courses/37110/assignments/syllabus), you don't have to contribute personally identifiable information. Also, note that you can explore the styling options!
+* Many of these "places that you find interesting but are likely yet unknown to most of us" are going to be represented as points, but some of them may be polygons or lines. One GeoJSON file can store points lines and polygons at once--unlike most GIS data formats. *All points should have some attribute data filled out.* Note that in GeoJSON each entity can have an entirely different set of attributes, so you don't have to follow your neighbors--you can add your own attribute types that are relevant to your point! And do [remember](https://canvas.ubc.ca/courses/60053/assignments/syllabus), you don't have to contribute personally identifiable information. Also, note that you can explore the styling options!
 
 * Each student in 472 contributes at least one point.
 
