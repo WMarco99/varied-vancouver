@@ -1,1 +1,221 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#1d7e16","marker-size":"medium","marker-symbol":"wetland","Placename":"Spit going into Semiahmoo Bay","notes":"\"Boundary Bay, Canada's top bird area, is a major stop-over on the Pacific Flyway\"","link":"https://www.birdsonthebay.ca/botb.html","Contributor":"Luke Bergmann"},"geometry":{"type":"Point","coordinates":[-122.87710189819335,49.0620569455363]}},{"type":"Feature","properties":{"marker-color":"#1d7e16","marker-symbol":"park2","Placename":"Lighthouse Point trail","notes":"Lots of very old trees!","marker-size":""},"geometry":{"type":"Point","coordinates":[-123.2581901550293,49.33496671391723]}},{"type":"Feature","properties":{"marker-size":"medium","marker-symbol":"star","marker-color":"#1d7e16","Placename":"Lonsdale Quay","notes":"Family-friendly pier attractions"},"geometry":{"type":"Point","coordinates":[-123.08250010013582,49.309781136835234]}}]}
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-size":"medium",
+            "marker-symbol":"wetland",
+            "Placename":"Spit going into Semiahmoo Bay",
+            "notes":"\"Boundary Bay, Canada's top bird area, is a major stop-over on the Pacific Flyway\"",
+            "link":"https://www.birdsonthebay.ca/botb.html",
+            "Contributor":"Luke Bergmann"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.87710189819335,
+               49.0620569455363
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-symbol":"park2",
+            "Placename":"Lighthouse Point trail",
+            "notes":"Lots of very old trees!"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.2581901550293,
+               49.33496671391723
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#6c52b6",
+            "marker-size":"medium",
+            "marker-symbol":"park",
+            "Placename":"Lynn Canyon",
+            "notes":"Beautiful area to walk around! ",
+            "Contributor":"Alison"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.01940917968751,
+               49.34274041619706
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-symbol":"park2",
+            "Placename":"Lighthouse Point trail",
+            "notes":"Lots of very old trees!",
+            "marker-size":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.2581901550293,
+               49.33496671391723
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#96d35f",
+            "marker-size":"medium",
+            "marker-symbol":"park",
+            "Placename":"Riverfront Park",
+            "Contributor":"Jason A.",
+            "link":"https://covapp.vancouver.ca/parkfinder/ParkDetail.aspx?inparkid=197",
+            "notes":"Park right by the Fraser River"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.05147767066957,
+               49.205605051978324
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#0061ff",
+            "marker-size":"medium",
+            "marker-symbol":"fast-food",
+            "Placename":"Marulilu Cafe",
+            "notes":"Great Japanese-style breakfasts",
+            "link":"",
+            "Contributor":"Jason A."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.11416357755662,
+               49.263345697899965
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-symbol":"park2",
+            "Placename":"Minoru Park",
+            "notes":"Small community park"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.14435720443726,
+               49.16557077680273
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#28b5a9",
+            "marker-size":"medium",
+            "marker-symbol":"rocket",
+            "Placename":"Terminus of Iona Jetty",
+            "notes":"A 3.5 km trail with beautiful view throughout a whole year",
+            "link":"https://www.letsgobiking.net/beginner/12-iona-spit-and-jetty-richmond-bc/",
+            "Contributor":"Tim Meng"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.26389789581297,
+               49.20562608091782
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#00570e",
+            "marker-size":"medium",
+            "marker-symbol":"park2",
+            "name":"UBC Alex Fraser Research Forest",
+            "link":"https://afrf.forestry.ubc.ca/",
+            "description":"The Alex Fraser Research Forest is part of the Faculty of Forestry at the University of British Columbia.  Situated on close to 10,000 hectares of crown forest in the Cariboo region of south-central British Columbia, it is one of two UBC Research Forests managed to create opportunities for research, education and demonstration of sustainable forest management.",
+            "contributer":"Joshua Green"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.07080841064452,
+               52.17240519090369
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#91b3f2",
+            "marker-size":"medium",
+            "marker-symbol":"camera",
+            "Placename":"1st and Tolmie dropoff",
+            "notes":"Tolmie street becomes extremely steep from this intersection to the water creating a \"Top of the Burrard Inlet\" view",
+            "Contributor":"Fred DeNisco"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.21186304092407,
+               49.27220087369238
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "marker-symbol":"ice-cream",
+            "Placename":"Snackshot",
+            "notes":"Specialty dessert shop featuring unique and classic Hong Kong-style sweets!",
+            "link":"https://www.facebook.com/Snackshot/",
+            "Contributor":"Elana"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.14002275466918,
+               49.21335361062153
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-size":"medium",
+            "marker-symbol":"star",
+            "marker-color":"#1d7e16",
+            "Placename":"Lonsdale Quay",
+            "notes":"Family-friendly pier attractions"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.08250010013582,
+               49.309781136835234
+            ]
+         }
+      }
+   ]
+}
