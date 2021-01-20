@@ -108,6 +108,22 @@
                49.263345697899965
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-symbol":"park2",
+            "Placename":"Minoru Park",
+            "notes":"Small community park"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.14435720443726,
+               49.16557077680273
+            ]
+         }
       }
    ]
 }
