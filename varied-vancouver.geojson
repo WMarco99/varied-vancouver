@@ -124,6 +124,25 @@
                49.16557077680273
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#28b5a9",
+            "marker-size":"medium",
+            "marker-symbol":"rocket",
+            "Placename":"Terminus of Iona Jetty",
+            "notes":"A 3.5 km trail with beautiful view throughout a whole year",
+            "link":"https://www.letsgobiking.net/beginner/12-iona-spit-and-jetty-richmond-bc/",
+            "Contributor":"Tim Meng"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.26389789581297,
+               49.20562608091782
+            ]
+         }
       }
    ]
 }
