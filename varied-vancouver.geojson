@@ -162,6 +162,24 @@
                52.17240519090369
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#91b3f2",
+            "marker-size":"medium",
+            "marker-symbol":"camera",
+            "Placename":"1st and Tolmie dropoff",
+            "notes":"Tolmie street becomes extremely steep from this intersection to the water creating a \"Top of the Burrard Inlet\" view",
+            "Contributor":"Fred DeNisco"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.21186304092407,
+               49.27220087369238
+            ]
+         }
       }
    ]
 }
