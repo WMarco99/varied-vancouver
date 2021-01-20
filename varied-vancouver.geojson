@@ -199,6 +199,23 @@
                49.21335361062153
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-size":"medium",
+            "marker-symbol":"star",
+            "marker-color":"#1d7e16",
+            "Placename":"Lonsdale Quay",
+            "notes":"Family-friendly pier attractions"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.08250010013582,
+               49.309781136835234
+            ]
+         }
       }
    ]
 }
