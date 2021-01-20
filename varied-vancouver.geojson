@@ -143,6 +143,25 @@
                49.20562608091782
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#00570e",
+            "marker-size":"medium",
+            "marker-symbol":"park2",
+            "name":"UBC Alex Fraser Research Forest",
+            "link":"https://afrf.forestry.ubc.ca/",
+            "description":"The Alex Fraser Research Forest is part of the Faculty of Forestry at the University of British Columbia.  Situated on close to 10,000 hectares of crown forest in the Cariboo region of south-central British Columbia, it is one of two UBC Research Forests managed to create opportunities for research, education and demonstration of sustainable forest management.",
+            "contributer":"Joshua Green"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.07080841064452,
+               52.17240519090369
+            ]
+         }
       }
    ]
 }
